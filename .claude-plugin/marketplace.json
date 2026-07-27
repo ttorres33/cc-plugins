@@ -50,7 +50,7 @@
     {
       "name": "task-management",
       "description": "Markdown-based task management with daily/weekly views, archiving, and idea tracking",
-      "version": "0.2.3",
+      "version": "0.3.0",
       "category": "productivity",
       "source": {
         "source": "github",
