@@ -14,8 +14,8 @@
       "version": "0.3.0",
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "ttorres33/research-system"
+        "source": "url",
+        "url": "https://github.com/ttorres33/research-system.git"
       },
       "keywords": [
         "research",
@@ -33,8 +33,8 @@
       "version": "0.5.0",
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "ttorres33/project-docs"
+        "source": "url",
+        "url": "https://github.com/ttorres33/project-docs.git"
       },
       "keywords": [
         "documentation",
@@ -53,8 +53,8 @@
       "version": "0.3.2",
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "ttorres33/task-management"
+        "source": "url",
+        "url": "https://github.com/ttorres33/task-management.git"
       },
       "keywords": [
         "tasks",
